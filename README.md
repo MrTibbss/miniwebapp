@@ -1,0 +1,3 @@
+# Farcaster Web Browser Miniapp
+
+Initializing repository...
